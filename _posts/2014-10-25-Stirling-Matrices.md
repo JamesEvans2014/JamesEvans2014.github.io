@@ -5,7 +5,7 @@ date      :   2014-10-25 15:47:43
 categories: Stirling Numbers Matrices
 ---
 This is an idea that I've had floating around for a while now. The idea came about during a conference held at Cardiff University
-not so long ago. The idea is simple; what are the coefficients of a polynomial of degree $n$ which go through the first \\(n+1\\) prime numbers?
+not so long ago. The idea is simple; what are the coefficients of a polynomial of degree \\(n\\) which go through the first \\(n+1\\) prime numbers?
 
 
 {% highlight ruby %}
