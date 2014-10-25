@@ -25,6 +25,21 @@ Although time consuming and costly, inverting the matrix \\(A_n\\) unveils some 
 \tilde {A}_7=\frac {1}{720}\begin {pmatrix} 1 & -6 & 15 & -20 & 15 & -6 & 1 \\\ -18 & 156 & -375 & 480  & -345 & 132 & -21\\\ 295 & -1620 & 3705 & -4520 & 3105 & -1140 & 175 \\\ -1665 & 8520 & -18285 & 21120 & -13875 & 4920 & -735 \\\ 5104 & -23574 & 46680 & -50900 & 32160 & -11064 & 1624 \\\ -8028 & 31644 & -56940 & 59040 & -36180 & 12228 & -1764 \\\ 5040 & -15120 & 25200 & -25200 & 15120 & -5040 & 720 \end {pmatrix}.
 \\]
 
+In view of the first few associated matrices, the following are proposed:
+
+Let \\(\tilde {A}_n\\) be an associated matrix of order \\(n\\). Then
+\\[
+\det (\tilde {A}\_n)=(-1)^{\frac {n(n-1)}{2}}\Big ( \prod\_{r=1}^n(r-1)!\Big )^{-1}.
+\\]
+The product is known as the superfactorial.
+
+Let \\(\tilde {a}^n\_{ij}\\) denote the entries of the associated matrix \\(\tilde {A}_n\\). Then
+\\[
+\begin {equation}
+\sum\_{j=1}^n\tilde {a}\_{ij}= \begin {cases} 0,\ \ \ 1\leq i\leq n-1,\\ 1,\ \ \ i=n.\end {cases},\ \ \ 
+\sum\_{i=1}^n\tilde {a}\_{ij}= \begin {cases} 0,\ \ \ 2\leq j\leq n,\\ 1,\ \ \ j=1.\end {cases}.
+\end {equation}
+\\]
 
 
 
