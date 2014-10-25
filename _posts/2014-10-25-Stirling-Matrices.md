@@ -5,7 +5,7 @@ date      :   2014-10-25 15:47:43
 categories: Stirling Numbers Matrices
 ---
 This is an idea that I've had floating around for a while now. The idea came about during a conference held at Cardiff University
-not so long ago. The idea is simple; what are the coefficients of a polynomial of degree \\(n\\) which go through the first \\(n+1\\) prime numbers? 
+not so long ago. The idea is simple; what are the coefficients of a polynomial of degree \\(n-1\\) which go through the first \\(n\\) prime numbers? Polynomials of this type will be called prime polynomials.
 
 Prime polynomials may have a different definition, but for the purposes of the following discussion, the definition below is what is understood.
 
@@ -24,7 +24,7 @@ p\_7(x) & = \frac {1}{720}(27360-61548x+53732x^2-22515x^3+4925x^4-537x^5+23x^6).
 \end {aligned}
 \\]
 
-Initially,the interest was in being able to determine the coefficients of such polynomials for the finite \\(k\\)th order prime polynomials. The following construction would be one possible way of achieving such coefficients. 
+Initially, the interest was in being able to determine the coefficients of such polynomials for the finite \\(k\\)th order prime polynomials. However, the following construction leads to considerations of so called Sterling matrices. 
 
 Let \\(p\_n(x)\\) be the \\((n-1)\\)th order polynomial passing through the first \\(n\\) primes with the coeffcient of \\(x^m\\) being \\(c\_m\\), \\(m=0,1,\dots n-1\\), i.e.,
 \\[
@@ -72,4 +72,4 @@ n^{n-1} & n^{n-2} & \dots & n & 1
 \end {pmatrix},\ \ \ a_{ij}=i^{n-j}.
 \\]
 
-Note the order the coefficients \\(c\_m\\), \\(0\leq m\leq n-1\\) appear in the vector \\(\boldsymbol {c}\_n\\). The interest here now lies in the matrices \\(A\_n\\) and their inverses \\(A_n^{-1}\\).
+Note the order the coefficients \\(c\_m\\), \\(0\leq m\leq n-1\\) appear in the vector \\(\boldsymbol {c}\_n\\). The interest here now lies in the matrices \\(A_n^{-1}\\). These are what shall be known as Stirling matrices.
