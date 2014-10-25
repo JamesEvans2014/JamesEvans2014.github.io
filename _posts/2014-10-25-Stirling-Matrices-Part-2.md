@@ -41,5 +41,13 @@ Let \\(\tilde {a}^n\_{ij}\\) denote the entries of the associated matrix \\(\til
 \end {equation}
 \\]
 
+Considering the rows (or columns) of the Sterling matrices formed into triangular arrays leads to some interesting number patterns emerging. 
+
+A positive Sterling matrix will be denoted \\(\tilde {A}^+\_n\\) and its entries are defined by the relation
+\\[
+(\tilde {A}^+\_n)\_{ij}=(n-1)!|\tilde {a}\_{ij}|.
+\\]
+
+Let \\(T\_k(n,m)\\) denote the triangular array constructed by fixing \\(k\\) and placing the \\(k\\)th row of each positive Sterling matrix in descending order with \\(n\\) corresponding to the order of the positive Sterling matrix \\(\tilde {A}^+\_n\\) and \\(j\\) to the column number. Since for \\(n<k\\) the associated matrix has no row, zeros will be placed in their stead.
 
 
