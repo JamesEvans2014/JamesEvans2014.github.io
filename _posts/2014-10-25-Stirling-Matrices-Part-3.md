@@ -44,7 +44,8 @@ The hope would be that since the Stirling matrix is the inverse of a matrix with
 may be possible to derive an expressions or recurrence relations for a certain subclass of the 
 Stirling numbers of the first kind given the formula above.
 
-\textbf {Stirling Numbers of the First Kind}
+\\(\textbf {Stirling Numbers of the First Kind}\\)
+
 The Stirling Numbers, named after James Stirling (1692-1770) come in two varieties traditionally called the Stirling numbers of the first kind and the Stirling numbers of the second kind. This appendix will be devoted to a discussion on the Stirling numbers of the first kind which will be denoted \\(s(n,k)\\). Stirling numbers, like binomial coefficients can be constructed into triangular arrays. The array for \\(s(n,k)\\) is given for reference:
 \\[1\\]\\[0\ \ \ 1\\]\\[0\ \ \ 1\ \ \ \ 1\\]\\[0\ \ \ 2\ \ \ 3\ \ \ 1\\]\\[0\ \ \ 6\ \ \ 11\ \ \ 6\ \ \ 1\\]\\[0\ \ \ 24\ \ \ 50\ \ \ 35\ \ \ 10\ \ \ 1\\]\\[0\ \ \ 120\ \ \ 274\ \ \ 225\ \ \ 85\ \ \ 15\ \ \ 1\\]
 The Sterling numbers of the first kind show up in many different places. It is of note that \\(s(n,k)\\) is the number of ways to arrange \\(n\\) objects into \\(k\\) cycles. A cycle is a cyclic arrangement linked in a necklace fashion. For example, if \\([A,B,C,D]\\) is a cycle, it is understood that
