@@ -50,4 +50,12 @@ A positive Stirling matrix will be denoted \\(\tilde {A}^+\_n\\) and its entries
 
 Let \\(T\_k(n,m)\\) denote the triangular array constructed by fixing \\(k\\) and placing the \\(k\\)th row of each positive Stirling matrix in descending order with \\(n\\) corresponding to the order of the positive Stirling matrix \\(\tilde {A}^+\_n\\) and \\(j\\) to the column number. Since for \\(n<k\\) the Stirling matrix has no row, zeros will be placed in their stead.
 
-
+The first few triangles are provided for reference:
+\\\ \\(k=1\\)
+\\[1\\]\\[1\ \ \ 1\\]\\[1\ \ \ 2\ \ \ 1\\]\\[1 \ \ \ 3\ \ \ 3\ \ \ 1\\]\\[1\ \ \ 4\ \ \ 6\ \ \ 4\ \ \ 1\\]\\[\iddots\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ddots\\]
+\\(k=2\\)
+\\[0\\]\\[2\ \ \ 1\\]\\[5\ \ \ 8\ \ \ 3\\]\\[9 \ \ \ 24\ \ \ 21\ \ \ 6\\]\\[14\ \ \ 52\ \ \ 72\ \ \ 44\ \ \ 10\\]\\[20\ \ \ 95\ \ \ 180\ \ \ 170\ \ \ 80\ \ \ 15\\]\\[\iddots\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ddots\\]
+\\(k=3\\)
+\\[0\\]\\[0\ \ \ 0\\]\\[6\ \ \ 6\ \ \ 2\\]\\[26 \ \ \ 57\ \ \ 42\ \ \ 11\\]\\[71\ \ \ 236\ \ \ 294\ \ \ 164\ \ \ 35\\]\\[155\ \ \ 685\ \ \ 1210\ \ \ 1070\ \ \ 475\ \ \ 85\\]\\[295\ \ \ 1620\ \ \ 3705\ \ \ 4520\ \ \ 3105\ \ \ 1140\ \ \ 175\\]\\[\iddots\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ddots\\]
+\\(k=4\\)
+\\[0\\]\\[0\ \ \ 0\\]\\[0\ \ \ 0\ \ \ 0\\]\\[24\ \ \ 36\ \ \ 24\ \ \ 6\\]\\[154\ \ \ 428\ \ \ 468\ \ \ 244\ \ \ 50\\]\\[580\ \ \ 2305\ \ \ 3720\ \ \ 3070\ \ \ 1300\ \ \ 225\\]\\[1665\ \ \ 8520\ \ \ 18285\ \ \ 21120\ \ \ 13875\ \ \ 4920\ \ \ 735\\]\\[\iddots\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ddots\\]
