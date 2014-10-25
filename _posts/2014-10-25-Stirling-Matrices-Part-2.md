@@ -5,12 +5,12 @@ date      :   2014-10-25 15:47:43
 categories: Stirling Numbers Matrices
 ---
 
-This is a continuation of the discussion in the previous post found here: [Sterling Matrices Part 1](http://jamesevans2014.github.io/stirling/numbers/matrices/2014/10/25/Stirling-Matrices.html)
+This is a continuation of the discussion in the previous post found here: [Stirling Matrices Part 1](http://jamesevans2014.github.io/stirling/numbers/matrices/2014/10/25/Stirling-Matrices.html)
 
-The inverse of the matrix \\(A\_n\\) defined in the previous post will be called the Sterling matrix of order \\(n\\). 
+The inverse of the matrix \\(A\_n\\) defined in the previous post will be called the Stirling matrix of order \\(n\\). 
 It will be denoted \\(\tilde {A}\_n\\) and its \\((i-j)\\)th entry \\(\tilde {a}\_{ij}^n\\).
 
-Although time consuming and costly, inverting the matrix \\(A_n\\) unveils some interesting number patterns. The first few Sterling matrices are given for reference:
+Although time consuming and costly, inverting the matrix \\(A_n\\) unveils some interesting number patterns. The first few Stirling matrices are given for reference:
 \\[
 \tilde {A}\_1=1,\ \ \ \tilde {A}\_2=\begin {pmatrix} -1 & 1\\\ 2 & -1 \end {pmatrix},\ \ \ \tilde {A}\_3=\frac {1}{2}\begin {pmatrix} 1 & -2 & 1 \\\ -5 & 8 & -3 \\\ 6 & -6 & 2 \end {pmatrix},
 \\]
@@ -25,15 +25,15 @@ Although time consuming and costly, inverting the matrix \\(A_n\\) unveils some 
 \tilde {A}_7=\frac {1}{720}\begin {pmatrix} 1 & -6 & 15 & -20 & 15 & -6 & 1 \\\ -18 & 156 & -375 & 480  & -345 & 132 & -21\\\ 295 & -1620 & 3705 & -4520 & 3105 & -1140 & 175 \\\ -1665 & 8520 & -18285 & 21120 & -13875 & 4920 & -735 \\\ 5104 & -23574 & 46680 & -50900 & 32160 & -11064 & 1624 \\\ -8028 & 31644 & -56940 & 59040 & -36180 & 12228 & -1764 \\\ 5040 & -15120 & 25200 & -25200 & 15120 & -5040 & 720 \end {pmatrix}.
 \\]
 
-In view of the first few associated matrices, the following are proposed:
+In view of the first few Stirling matrices, the following are proposed:
 
-Let \\(\tilde {A}_n\\) be an associated matrix of order \\(n\\). Then
+Let \\(\tilde {A}_n\\) be an Stirling matrix of order \\(n\\). Then
 \\[
 \det (\tilde {A}\_n)=(-1)^{\frac {n(n-1)}{2}}\Big ( \prod\_{r=1}^n(r-1)!\Big )^{-1}.
 \\]
 The product is known as the superfactorial.
 
-Let \\(\tilde {a}^n\_{ij}\\) denote the entries of the associated matrix \\(\tilde {A}_n\\). Then
+Let \\(\tilde {a}^n\_{ij}\\) denote the entries of the Stirling matrix \\(\tilde {A}_n\\). Then
 \\[
 \begin {equation}
 \sum\_{j=1}^n\tilde {a}\_{ij}= \begin {cases} 0,\ \ \ 1\leq i\leq n-1,\\\ 1,\ \ \ i=n.\end {cases},\ \ \ 
@@ -41,13 +41,13 @@ Let \\(\tilde {a}^n\_{ij}\\) denote the entries of the associated matrix \\(\til
 \end {equation}
 \\]
 
-Considering the rows (or columns) of the Sterling matrices formed into triangular arrays leads to some interesting number patterns emerging. 
+Considering the rows (or columns) of the Stirling matrices formed into triangular arrays leads to some interesting number patterns emerging. 
 
-A positive Sterling matrix will be denoted \\(\tilde {A}^+\_n\\) and its entries are defined by the relation
+A positive Stirling matrix will be denoted \\(\tilde {A}^+\_n\\) and its entries are defined by the relation
 \\[
 (\tilde {A}^+\_n)\_{ij}=(n-1)!|\tilde {a}\_{ij}|.
 \\]
 
-Let \\(T\_k(n,m)\\) denote the triangular array constructed by fixing \\(k\\) and placing the \\(k\\)th row of each positive Sterling matrix in descending order with \\(n\\) corresponding to the order of the positive Sterling matrix \\(\tilde {A}^+\_n\\) and \\(j\\) to the column number. Since for \\(n<k\\) the associated matrix has no row, zeros will be placed in their stead.
+Let \\(T\_k(n,m)\\) denote the triangular array constructed by fixing \\(k\\) and placing the \\(k\\)th row of each positive Stirling matrix in descending order with \\(n\\) corresponding to the order of the positive Stirling matrix \\(\tilde {A}^+\_n\\) and \\(j\\) to the column number. Since for \\(n<k\\) the Stirling matrix has no row, zeros will be placed in their stead.
 
 
