@@ -43,8 +43,9 @@ The pressing question of course is what is the goal of this work?
 The hope would be that since the Stirling matrix is the inverse of a matrix with known structure that it 
 may be possible to derive an expressions or recurrence relations for a certain subclass of the 
 Stirling numbers of the first kind given the formula above.
+The reason for placing this work on this blog is simple, it is all conjecture. I have no proofs for any of the statements above and any insight into this would be greatly appreciated.
 
-#Stirling Numbers of the First Kind
+#Appendix: Stirling Numbers of the First Kind
 
 The Stirling Numbers, named after James Stirling (1692-1770) come in two varieties traditionally called the Stirling numbers of the first kind and the Stirling numbers of the second kind. This appendix will be devoted to a discussion on the Stirling numbers of the first kind which will be denoted \\(s(n,k)\\). Stirling numbers, like binomial coefficients can be constructed into triangular arrays. The array for \\(s(n,k)\\) is given for reference:
 \\[1\\]\\[0\ \ \ 1\\]\\[0\ \ \ 1\ \ \ \ 1\\]\\[0\ \ \ 2\ \ \ 3\ \ \ 1\\]\\[0\ \ \ 6\ \ \ 11\ \ \ 6\ \ \ 1\\]\\[0\ \ \ 24\ \ \ 50\ \ \ 35\ \ \ 10\ \ \ 1\\]\\[0\ \ \ 120\ \ \ 274\ \ \ 225\ \ \ 85\ \ \ 15\ \ \ 1\\]
