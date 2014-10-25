@@ -42,7 +42,7 @@ Then by simply plugging in the relevant values into the polynomial, the followin
 \begin {cases}
 c\_{n-1}+c\_{n-2}+\dots +c\_1+c\_0=2,\\\
 2^{n-1}c\_{n-1}+2^{n-2}c\_{n-2}+\dots +2c\_1+c\_0=3,\\\
-\ \ \ \ \ \vdots \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \vdots \\
+\ \ \ \ \ \vdots \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \vdots \\\
 n^{n-1}c\_{n-1}+n^{n-2}c\_{n-2}+\dots +nc\_1+c\_0=p_n,
 \end {cases}
 \end {equation}
