@@ -24,3 +24,14 @@ p\_7(x) & = \frac {1}{720}(27360-61548x+53732x^2-22515x^3+4925x^4-537x^5+23x^6).
 \end {aligned}
 \\]
 
+Initially,the interest was in being able to determine the coefficients of such polynomials for the finite \\(k\\)th order prime polynomials. The following construction would be one possible way of achieving such coefficients. 
+
+Let \\(p\_n(x)\\) be the \\((n-1)\\)th order polynomial passing through the first \\(n\\) primes with the coeffcient of \\(x^m\\) being \\(c\_m\\),\ \\(m=0,1,\dots n-1\\), i.e.,
+\\[
+\begin {equation}
+\begin {cases}
+p\_n(x)=c\_{n-1}x^{n-1}+c\_{n-2}x^{n-2}+\dots +c\_1x+c_0,\\
+p\_n(i)=p\_i,\ \ \ 1\leq i\leq n.
+\end {cases}
+\end {equation}
+\\]
