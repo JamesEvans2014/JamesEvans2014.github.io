@@ -51,14 +51,14 @@ n^{n-1}c\_{n-1}+n^{n-2}c\_{n-2}+\dots +nc\_1+c\_0=p_n,
 In matrix notation, this can clearly be written as
 \\[
 \begin {equation}
-A\_n\bsl {c}\_n=\bsl {p}\_n,
+A\_n\boldsymbol {c}\_n=\boldsymbol {p}\_n,
 \end {equation}
 \\]
 where
 \\[
-\bsl {c}\_n=\begin {pmatrix}
+\boldsymbol {c}\_n=\begin {pmatrix}
 c\_{n-1}\\\ c\_{n-2}\\\ \vdots \\\ c\_1 \\\ c\_0
-\end {pmatrix},\ \ \ \ \ \bsl {p}\_n=\begin {pmatrix}
+\end {pmatrix},\ \ \ \ \ \boldsymbol{p}\_n=\begin {pmatrix}
 2 \\\ 3 \\\ \vdots \\\ p\_{n-1}\\\ p\_{n}
 \end {pmatrix},
 \\]
