@@ -30,7 +30,7 @@ Let \\(p\_n(x)\\) be the \\((n-1)\\)th order polynomial passing through the firs
 \\[
 \begin {equation}
 \begin {cases}
-p\_n(x)=c\_{n-1}x^{n-1}+c\_{n-2}x^{n-2}+\dots +c\_1x+c_0,\\
+p\_n(x)=c\_{n-1}x^{n-1}+c\_{n-2}x^{n-2}+\dots +c\_1x+c_0,\\\
 p\_n(i)=p\_i,\ \ \ 1\leq i\leq n.
 \end {cases}
 \end {equation}
