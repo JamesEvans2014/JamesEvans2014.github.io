@@ -1,6 +1,6 @@
 ---
 layout    : post
-title     :  "Stirling Matrices"
+title     :  "Stirling Matrices Part 1"
 date      :   2014-10-25 15:47:43
 categories: Stirling Numbers Matrices
 ---
