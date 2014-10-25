@@ -47,3 +47,27 @@ n^{n-1}c\_{n-1}+n^{n-2}c\_{n-2}+\dots +nc\_1+c\_0=p_n,
 \end {cases}
 \end {equation}
 \\]
+
+In matrix notation, this can clearly be written as
+\\[
+\begin {equation}
+A\_n\bsl {c}\_n=\bsl {p}\_n,
+\end {equation}
+\\]
+where
+\\[
+\bsl {c}\_n=\begin {pmatrix}
+c\_{n-1}\\\ c\_{n-2}\\\ \vdots \\\ c\_1 \\\ c\_0
+\end {pmatrix},\ \ \ \ \ \bsl {p}\_n=\begin {pmatrix}
+2 \\\ 3 \\\ \vdots \\\ p\_{n-1}\\\ p\_{n}
+\end {pmatrix},
+\\]
+and
+\\[
+A_n=\begin {pmatrix}
+1 & 1 & \dots & 1 & 1 \\\
+2^{n-1} & 2^{n-2} & \dots & 2 & 1 \\\
+\vdots & \vdots & & \vdots & \vdots & \\\
+n^{n-1} & n^{n-2} & \dots & n & 1 
+\end {pmatrix},\ \ \ a_{ij}=i^{n-j}.
+\\]
