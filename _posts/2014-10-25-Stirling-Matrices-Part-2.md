@@ -36,8 +36,8 @@ The product is known as the superfactorial.
 Let \\(\tilde {a}^n\_{ij}\\) denote the entries of the associated matrix \\(\tilde {A}_n\\). Then
 \\[
 \begin {equation}
-\sum\_{j=1}^n\tilde {a}\_{ij}= \begin {cases} 0,\ \ \ 1\leq i\leq n-1,\\ 1,\ \ \ i=n.\end {cases},\ \ \ 
-\sum\_{i=1}^n\tilde {a}\_{ij}= \begin {cases} 0,\ \ \ 2\leq j\leq n,\\ 1,\ \ \ j=1.\end {cases}.
+\sum\_{j=1}^n\tilde {a}\_{ij}= \begin {cases} 0,\ \ \ 1\leq i\leq n-1,\\\ 1,\ \ \ i=n.\end {cases},\ \ \ 
+\sum\_{i=1}^n\tilde {a}\_{ij}= \begin {cases} 0,\ \ \ 2\leq j\leq n,\\\ 1,\ \ \ j=1.\end {cases}.
 \end {equation}
 \\]
 
