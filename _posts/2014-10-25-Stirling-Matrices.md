@@ -71,3 +71,5 @@ A_n=\begin {pmatrix}
 n^{n-1} & n^{n-2} & \dots & n & 1 
 \end {pmatrix},\ \ \ a_{ij}=i^{n-j}.
 \\]
+
+Note the order the coefficients \\(c\_m\\), \\(0\leq m\leq n-1\\) appear in the vector \\(\bsl {c}\_n\\). The interest here now lies in the matrices \\(A\_n\\) and their inverses \\(A_n^{-1}\\).
