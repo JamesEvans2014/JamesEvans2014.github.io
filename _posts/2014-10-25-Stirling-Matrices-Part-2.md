@@ -60,3 +60,5 @@ The first few triangles are provided for reference:
 \\[0\\]\\[0\ \ \ 0\\]\\[6\ \ \ 6\ \ \ 2\\]\\[26 \ \ \ 57\ \ \ 42\ \ \ 11\\]\\[71\ \ \ 236\ \ \ 294\ \ \ 164\ \ \ 35\\]\\[155\ \ \ 685\ \ \ 1210\ \ \ 1070\ \ \ 475\ \ \ 85\\]\\[295\ \ \ 1620\ \ \ 3705\ \ \ 4520\ \ \ 3105\ \ \ 1140\ \ \ 175\\]
 \\(k=4\\)
 \\[0\\]\\[0\ \ \ 0\\]\\[0\ \ \ 0\ \ \ 0\\]\\[24\ \ \ 36\ \ \ 24\ \ \ 6\\]\\[154\ \ \ 428\ \ \ 468\ \ \ 244\ \ \ 50\\]\\[580\ \ \ 2305\ \ \ 3720\ \ \ 3070\ \ \ 1300\ \ \ 225\\]\\[1665\ \ \ 8520\ \ \ 18285\ \ \ 21120\ \ \ 13875\ \ \ 4920\ \ \ 735\\]
+
+Clearly the first triangular array \\(T\_1(n,m)\\) is simply Pascal\'s triangle but what of the other arrays? Down the right-hand side of \\(T\_2(n,m)\\), it is observed that the triangle numbers progress and moreover, it can be seen that a particular set of the Stirling numbers of the first kind are progressing down the right-hand side of the triangular array \\(T\_3(n,m)\\) and indeed for the triangle $T_4(n,m)$ Stirling numbers of the first kind appear down the right-hand side also.
