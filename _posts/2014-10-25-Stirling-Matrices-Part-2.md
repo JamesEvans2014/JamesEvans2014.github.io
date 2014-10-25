@@ -61,4 +61,6 @@ The first few triangles are provided for reference:
 \\(k=4\\)
 \\[0\\]\\[0\ \ \ 0\\]\\[0\ \ \ 0\ \ \ 0\\]\\[24\ \ \ 36\ \ \ 24\ \ \ 6\\]\\[154\ \ \ 428\ \ \ 468\ \ \ 244\ \ \ 50\\]\\[580\ \ \ 2305\ \ \ 3720\ \ \ 3070\ \ \ 1300\ \ \ 225\\]\\[1665\ \ \ 8520\ \ \ 18285\ \ \ 21120\ \ \ 13875\ \ \ 4920\ \ \ 735\\]
 
-Clearly the first triangular array \\(T\_1(n,m)\\) is simply Pascal\'s triangle but what of the other arrays? Down the right-hand side of \\(T\_2(n,m)\\), it is observed that the triangle numbers progress and moreover, it can be seen that a particular set of the Stirling numbers of the first kind are progressing down the right-hand side of the triangular array \\(T\_3(n,m)\\) and indeed for the triangle $T_4(n,m)$ Stirling numbers of the first kind appear down the right-hand side also.
+Clearly the first triangular array \\(T\_1(n,m)\\) is simply Pascal\'s triangle but what of the other arrays? Down the right-hand side of \\(T\_2(n,m)\\), it is observed that the triangle numbers progress and moreover, it can be seen that a particular set of the Stirling numbers of the first kind are progressing down the right-hand side of the triangular array \\(T\_3(n,m)\\) and indeed for the triangle \\(T\_4(n,m)\\) Stirling numbers of the first kind appear down the right-hand side also.
+
+In the next post, the patterns seen in the above triangles will be explored.
