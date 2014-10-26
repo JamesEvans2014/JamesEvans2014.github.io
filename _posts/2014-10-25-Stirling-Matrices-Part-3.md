@@ -16,7 +16,7 @@ T\_1(n,m)=\begin {pmatrix} n-1 \\\ m-1 \end {pmatrix}.
 \\[
 T\_2(n,m)=\Big [ s(n,n-1)+(n-m)\Big ]\begin {pmatrix} n-1 \\\ m-1 \end {pmatrix},
 \\]
-where \\(s(i,j)\\) is a Stirling number of the first kind (see below).
+where \\(s(i,j)\\) is a \\(\textbf {Stirling number of the first kind}\\) (see below).
 Moreover, the following formulae hold true also:
 \\[
 \begin {aligned}
@@ -27,10 +27,14 @@ T\_4(n,m) & =\Big [s(n,n-3)+(n-m)\Big (s(n,n-2) -s(n,n-1)m+m^2\Big )\Big ]\begin
 
 Hence the following theorem is conjectured:
 
+\\( \textbf {Theorem}\\)
+
 \\[
 T\_k(n,m)=\Big [s(n,n-k+1)+(n-m)\sum\_{l=0}^{k-2}(-1)^ls(n,n-k+l+2)m^l\Big ]\begin {pmatrix} n-1 \\\ m-1 \end {pmatrix}.
 \\]
 When \\(k=1\\) in the above formula, the sum on the right is zero.
+
+\\(\textbf {Corollary}\\)
 
 Let \\(\tilde {a}^n\_{km}\\) denote the entries of the Stirling matrix \\(\tilde {A}\_n\\). Then
 \\[
