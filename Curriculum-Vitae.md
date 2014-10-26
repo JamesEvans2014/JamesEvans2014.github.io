@@ -6,7 +6,8 @@ permalink: /CV/
 
 #Educational History
 
-October 2012 – Present,                                                                     University of Cardiff
+\\(\textbf {October 2012 – Present},\\)                                                                     
+University of Cardiff
 
 Ph.D. in Mathematics
 
@@ -21,7 +22,9 @@ the first was to the study of the governing equations of electrodynamics (Maxwel
 development of a set of so called homogenised relations and higher order constitutive laws. 
 The second problem involved homogenisation of the governing equations for elasticity when applied to a 
 particular case of thin structures, namely, when the so called “critical case” is being considered in high contrast.
-September 2008 – June 2012,                                                                  University of Cardiff 
+
+\\(\textbf {September 2008 – June 2012}\\),                                                                  
+University of Cardiff 
 
 MMath in Applied Mathematics, First Class Honours   
 
@@ -29,22 +32,23 @@ MMath Project Title: Overview of Calculus of Variations
 Modules Taken: Functional Analysis, Fluid Dynamics, Measure Theory, Groups, Rings & Fields, 
 Applied Nonlinear Systems, Combinatorics, Differential Geometry and Calculus of Variations.
 
-September 2006 – July 2008,                                                 Ysgol Dyffryn Conwy, Llanrwst, North Wales
+\\(\textbf {September 2006 – July 2008}\\),                                                 
+Ysgol Dyffryn Conwy, Llanrwst, North Wales
+
 ‘A’ Levels Mathematics (A); Further Mathematics (A); Physics (B); Music (C).   
 ‘AS’ Levels English Literature (B); Music Technology (C).
 
 #Funding Awarded
 
-September 2012,  
+\\(\textbf {September 2012}\\),  
 ESPRC             
 Funding of approximately £14,000 a year for three and a half years was awarded to complete my Ph.D. at Cardiff 
 University.
 
 #Additional Research Experience
 
-September 2011 – May 2012, for the final year of my undergraduate degree, I completed a project in which I 
-researched and reviewed the key points of Calculus of Variations under supervision. 
-As a result of this research I was able to get a feel for academic research by means of self-study.
+\\(\textbf {September 2011 – May 2012}\\), 
+For the final year of my undergraduate degree, I completed a project in which I researched and reviewed the key points of Calculus of Variations under supervision. As a result of this research I was able to get a feel for academic research by means of self-study.
 
 #Research Interests
 
@@ -60,7 +64,8 @@ where it is still unclear what so called “interface” conditions are appropri
 
 #Teaching Experience
 
-October 2012 – Present, I have aided Cardiff University consistently with, for example, taking tutorials, 
+\\(\textbf {October 2012 – Present}\\), 
+I have aided Cardiff University consistently with, for example, taking tutorials, 
 assisting with marking and working for the Cardiff University Maths Support scheme. This included tutoring groups 
 of up to twenty-five students, marking undergraduate coursework, and providing relevant feedback where necessary. 
 The work with the Maths Support scheme was most enlightening as it provided me with the constant challenge of not 
