@@ -18,15 +18,14 @@ equation
 where \\(\Omega\\) is both bounded and simply connected, then 
 \\[
 \begin {equation}
-\text {ker}\ \textbf {curl} := \text {ker}\Big \\{ \textbf {curl},\ L^2(\Omega)\}=\nabla H^1(\Omega)
-:=\{ \boldsymbol {v}(\boldsymbol {x})=\nabla w(\boldsymbol {x})\ |\ w\in H^1(\Omega)\Big \\}.
+\text {ker}\ \textbf {curl} := =\nabla H^1(\Omega):=\\{ \boldsymbol {v}(\boldsymbol {x})=\nabla w(\boldsymbol {x})\ |\ w\in H^1(\Omega)\\}
 \end {equation}
 \\]
 Strictly speaking one should impose suitable boundary conditions on \\(\partial\Omega\\) but so long as the boundary 
 is sufficiently regular, this is not an issue. Looking at this, it is not too difficult to extend this result to 
 unbounded, simply connected domains by imposing a sufficient decay at infinity such that the functions in the kernel
 are \\(L^2(\Omega)\\), i.e., if \\(\boldsymbol {v}\in \text {ker}\ \textbf {curl}\\) where \\(\Omega\\)
-is simply connected and unbounded, then as \\(|\boldsymbol {x}|\tends \infty\\), \\(\boldsymbol {v}(\boldsymbol {x}) 
+is simply connected and unbounded, then as \\(|\boldsymbol {x}|\rightarrow \infty\\), \\(\boldsymbol {v}(\boldsymbol {x}) 
 =O( \frac {1}{|\boldsymbol {x}|^2})\\).
 
 The case when \\(\Omega\\) is bounded and multiply-connected has been considered before 
@@ -42,7 +41,7 @@ on a multiply connected domain as follows.
 
 \\(\textbf {Definition}\\)
 
-Let \\(\Sigma_1,\dots,\Sigma_m\\) be a collection of smooth surfaces such that 
+Let \\(\Sigma\_1,\dots,\Sigma\_m\\) be a collection of smooth surfaces such that 
 
 \begin {enumerate}
 \item \\(\Sigma\_1,\dots,\Sigma\_m\\) are open subsets of smooth manifolds 
@@ -77,12 +76,12 @@ where the problem in question is as follows
 \begin {cases}
 \Delta w=0,\ \ \ \text {in}\ \Omega',\\\
 \frac {\partial w}{\partial n}\big {|}\_\Gamma =0,\\\
-[w]_{\Sigma\_i}=\text {constant},\ \ \ i=1,\dots, m,\\\
+[w]\_{\Sigma\_i}=\text {constant},\ \ \ i=1,\dots, m,\\\
 \Big [ \frac {\partial w}{\partial n}\Big ]\_{\Sigma\_i}=0,\ \ \ i=1,\dots,m.
 \end {cases}
 \end {equation}
 \\]
-where \\([w]\_{\Sigma\_i} = w|_{\Sigma\_i^+}-w|_{\Sigma\_i^-}\\)
+where \\([w]\_{\Sigma\_i} = w|\_{\Sigma\_i^+}-w|\_{\Sigma\_i^-}\\)
 
 The question now becomes can this result be extended to domains which are both multiply connected and unbounded? 
 One would think that it would be a combination of this result and the requirement that there is sufficient decay 
