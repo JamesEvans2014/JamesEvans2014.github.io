@@ -18,7 +18,7 @@ equation
 where \\(\Omega\\) is both bounded and simply connected, then 
 \\[
 \begin {equation}
-\text {ker}\ \textbf {curl} := =\nabla H^1(\Omega):=\\{ \boldsymbol {v}(\boldsymbol {x})=\nabla w(\boldsymbol {x})\ |\ w\in H^1(\Omega)\\}
+\text {ker}\ \textbf {curl} := \nabla H^1(\Omega):=\\{ \boldsymbol {v}(\boldsymbol {x})=\nabla w(\boldsymbol {x})\ |\ w\in H^1(\Omega)\\}
 \end {equation}
 \\]
 Strictly speaking one should impose suitable boundary conditions on \\(\partial\Omega\\) but so long as the boundary 
@@ -26,11 +26,11 @@ is sufficiently regular, this is not an issue. Looking at this, it is not too di
 unbounded, simply connected domains by imposing a sufficient decay at infinity such that the functions in the kernel
 are \\(L^2(\Omega)\\), i.e., if \\(\boldsymbol {v}\in \text {ker}\ \textbf {curl}\\) where \\(\Omega\\)
 is simply connected and unbounded, then as \\(|\boldsymbol {x}|\rightarrow \infty\\), \\(\boldsymbol {v}(\boldsymbol {x}) 
-=O( \frac {1}{|\boldsymbol {x}|^2})\\).
+=O\left ( \frac {1}{|\boldsymbol {x}|^2}\right )\\).
 
 The case when \\(\Omega\\) is bounded and multiply-connected has been considered before 
 and will be formulated here for completeness. Let \\(\Omega\\) be a bounded connected domain which lies wholly 
-on one side of it's boundary \\(\dpar\Omega\\) of dimension 2 and of the class \\(C^k\\) where \\(k\geq 2\\). 
+on one side of it's boundary \\(\partial\Omega\\) of dimension 2 and of the class \\(C^k\\) where \\(k\geq 2\\). 
 Let \\(\partial \Omega\\) have a finite number of connected components denoted \\(\Gamma\_0,\dots ,\Gamma\_n\\) where 
 \\(\Gamma\_0\\) denotes the boundary of the infinite connected component of 
 \\(\Omega'=\mathbb {R}^3\backslash\bar {\Omega}\\). For domains which are multiply connected, it is common to come 
@@ -43,15 +43,17 @@ on a multiply connected domain as follows.
 
 Let \\(\Sigma\_1,\dots,\Sigma\_m\\) be a collection of smooth surfaces such that 
 
+\\[
 \begin {enumerate}
 \item \\(\Sigma\_1,\dots,\Sigma\_m\\) are open subsets of smooth manifolds 
 \\(\mathcal {M}\_1,\dots ,\mathcal {M}\_m\\) respectively,
-\item the boundary of each \\(\Sigma\_i\\) is contained in \\(\dpar\Omega\\),
+\item the boundary of each \\(\Sigma\_i\\) is contained in \\(\partial\Omega\\),
 \item the intersection of any two cuts is empty, i.e., \\(\Sigma\_i\cap\Sigma\_j=\emptyset\\), \\(i\neq j\\),
 \item the open set \\(\Omega'=\Omega\backslash\bigcup\_{i=1}^m\Sigma\_i\\) is simply connected and 
 pseudo-Lipschitz (For the definition of pseudo-Lipschitz, 
 see [Lipschitz Domain](http://en.wikipedia.org/wiki/Lipschitz_domain)).
 \end {enumerate}
+\\]
 
 Then we call \\(\Sigma\_1,\dots ,\Sigma\_m\\) a collection of cuts for the domain \\(\Omega\\).
 
@@ -62,12 +64,12 @@ Hence, without going through the construction, one can prove the following resul
 
 Let \\(\Omega\\) be an open set which is bounded and multiply connected in \\(\mathbb {R}^3\\)
 satisfying the hypothesis described above. The kernel of the curl in \\((L^2(\Omega))^3\\) is the sum of two orthogonal
-spaces; \\(\del H^1(\Omega)\\)and \\(\mathbb {H}\_1\\) which is a vector space of dimension \\(m\\)
+spaces; \\(\nabla H^1(\Omega)\\)and \\(\mathbb {H}\_1\\) which is a vector space of dimension \\(m\\)
 (the number of cuts required to make \\(\Omega\\) simply connected) defined by
 \\[
 \begin {multline}
-\mathbb {H}\_1=\Big \{ \boldsymbol {v}\in (L^2(\Omega))^3\ \Big |\ \boldsymbol {v}=\nabla w,\ \text {in}\ \Omega \\ 
-\text {with} \ w\in H^1(\Omega')\ \text {a solution of the problem below}\Big \},
+\mathbb {H}\_1=\Big \\{ \boldsymbol {v}\in (L^2(\Omega))^3\ \Big |\ \boldsymbol {v}=\nabla w,\ \text {in}\ \Omega \\ 
+\text {with} \ w\in H^1(\Omega')\ \text {a solution of the problem below}\Big \\},
 \end {multline}
 \\]
 where the problem in question is as follows
