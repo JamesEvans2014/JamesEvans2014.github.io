@@ -83,14 +83,16 @@ I completed a one day course in educating mathematics to learning mathematicians
 
 #Additional Experience & Interests  
 
-•	During the course of my A-levels, I helped to initiate talks with the head of mathematics to convince the school 
+During the course of my A-levels, I helped to initiate talks with the head of mathematics to convince the school 
 to allow the teaching of the Further Mathematics AS Level. When I had decided that I was to undertake Mathematics 
 at a university level, I then proceeded to teach myself an additional three modules as a part of the 
 Further Mathematics course to earn myself the full A Level.
-•	I have worked for Somerfield\The Co-operative (May 2006 – December 2013). Over the course of my employment 
+
+I have worked for Somerfield\The Co-operative (May 2006 – December 2013). Over the course of my employment 
 I have been trusted with many important tasks which have included supervisory roles in the cash office and 
 managing staff.
-•	I have a Grade 5 Distinction in Electronic Keyboard from LCM.
+
+I have a Grade 5 Distinction in Electronic Keyboard from LCM.
 
 #Publications
 
