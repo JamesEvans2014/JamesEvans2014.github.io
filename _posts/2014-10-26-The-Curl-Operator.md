@@ -44,7 +44,7 @@ on a multiply connected domain as follows.
 Let \\(\Sigma\_1,\dots,\Sigma\_m\\) be a collection of smooth surfaces such that 
 
 \\[
-\begin {enumerate}
+\begin {itemize}
 \item \\(\Sigma\_1,\dots,\Sigma\_m\\) are open subsets of smooth manifolds 
 \\(\mathcal {M}\_1,\dots ,\mathcal {M}\_m\\) respectively,
 \item the boundary of each \\(\Sigma\_i\\) is contained in \\(\partial\Omega\\),
@@ -52,7 +52,7 @@ Let \\(\Sigma\_1,\dots,\Sigma\_m\\) be a collection of smooth surfaces such that
 \item the open set \\(\Omega'=\Omega\backslash\bigcup\_{i=1}^m\Sigma\_i\\) is simply connected and 
 pseudo-Lipschitz (For the definition of pseudo-Lipschitz, 
 see [Lipschitz Domain](http://en.wikipedia.org/wiki/Lipschitz_domain)).
-\end {enumerate}
+\end {itemize}
 \\]
 
 Then we call \\(\Sigma\_1,\dots ,\Sigma\_m\\) a collection of cuts for the domain \\(\Omega\\).
