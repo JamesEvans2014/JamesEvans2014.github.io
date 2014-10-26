@@ -64,3 +64,7 @@ The first few triangles are provided for reference:
 Clearly the first triangular array \\(T\_1(n,m)\\) is simply Pascal\'s triangle but what of the other arrays? Down the right-hand side of \\(T\_2(n,m)\\), it is observed that the triangle numbers progress and moreover, it can be seen that a particular set of the Stirling numbers of the first kind are progressing down the right-hand side of the triangular array \\(T\_3(n,m)\\) and indeed for the triangle \\(T\_4(n,m)\\) Stirling numbers of the first kind appear down the right-hand side also.
 
 In the next post, the patterns seen in the above triangles will be explored.
+
+To see the final part, click the link below:
+
+[Stirling Matrices Part 3](http://jamesevans2014.github.io/stirling/numbers/matrices/2014/10/25/Stirling-Matrices-Part-3.html)
