@@ -7,7 +7,7 @@ categories: Stirling Numbers Matrices
 
 This is a continuation of the discussion in the previous post found here: [Stirling Matrices Part 1](http://jamesevans2014.github.io/stirling/numbers/matrices/2014/10/25/Stirling-Matrices.html)
 
-The inverse of the matrix \\(A\_n\\) defined in the previous post will be called the Stirling matrix of order \\(n\\). 
+The inverse of the matrix \\(A\_n\\) defined in the previous post will be called the \\(\textbf {Stirling matrix}\\) of order \\(n\\). 
 It will be denoted \\(\tilde {A}\_n\\) and its \\((i-j)\\)th entry \\(\tilde {a}\_{ij}^n\\).
 
 Although time consuming and costly, inverting the matrix \\(A_n\\) unveils some interesting number patterns. The first few Stirling matrices are given for reference:
@@ -31,7 +31,7 @@ Let \\(\tilde {A}_n\\) be an Stirling matrix of order \\(n\\). Then
 \\[
 \det (\tilde {A}\_n)=(-1)^{\frac {n(n-1)}{2}}\Big ( \prod\_{r=1}^n(r-1)!\Big )^{-1}.
 \\]
-The product is known as the superfactorial.
+The product in the above is known as the superfactorial.
 
 Let \\(\tilde {a}^n\_{ij}\\) denote the entries of the Stirling matrix \\(\tilde {A}_n\\). Then
 \\[
@@ -43,7 +43,7 @@ Let \\(\tilde {a}^n\_{ij}\\) denote the entries of the Stirling matrix \\(\tilde
 
 Considering the rows (or columns) of the Stirling matrices formed into triangular arrays leads to some interesting number patterns emerging. 
 
-A positive Stirling matrix will be denoted \\(\tilde {A}^+\_n\\) and its entries are defined by the relation
+A \\(\textbf {positive Stirling matrix}\\) will be denoted \\(\tilde {A}^+\_n\\) and its entries are defined by the formula
 \\[
 (\tilde {A}^+\_n)\_{ij}=(n-1)!|\tilde {a}\_{ij}|.
 \\]
