@@ -73,3 +73,7 @@ n^{n-1} & n^{n-2} & \dots & n & 1
 \\]
 
 Note the order the coefficients \\(c\_m\\), \\(0\leq m\leq n-1\\) appear in the vector \\(\boldsymbol {c}\_n\\). The interest here now lies in the matrices \\(A_n^{-1}\\). These are what shall be known as Stirling matrices.
+
+See the following link for the next part of this work:
+
+[Stirling Matrices Part 2](http://jamesevans2014.github.io/stirling/numbers/matrices/2014/10/25/Stirling-Matrices-Part-2.html)
