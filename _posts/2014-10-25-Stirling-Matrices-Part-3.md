@@ -5,7 +5,7 @@ date      :   2014-10-25 15:47:43
 categories: Stirling Numbers Matrices
 ---
 
-This is a continuation of the previous post. See the following link: [Sterling Matrices Part 2](http://jamesevans2014.github.io/stirling/numbers/matrices/2014/10/25/Stirling-Matrices-Part-2.html)
+This is a continuation of the previous post. See the following link: [Stirling Matrices Part 2](http://jamesevans2014.github.io/stirling/numbers/matrices/2014/10/25/Stirling-Matrices-Part-2.html)
 
 In this post, several propositions are formulated with regard to the triangular arrays established in the previous post.
 
@@ -53,7 +53,7 @@ The reason for placing this work on this blog is simple, it is all conjecture. I
 
 The Stirling Numbers, named after James Stirling (1692-1770) come in two varieties traditionally called the Stirling numbers of the first kind and the Stirling numbers of the second kind. This appendix will be devoted to a discussion on the Stirling numbers of the first kind which will be denoted \\(s(n,k)\\). Stirling numbers, like binomial coefficients can be constructed into triangular arrays. The array for \\(s(n,k)\\) is given for reference:
 \\[1\\]\\[0\ \ \ 1\\]\\[0\ \ \ 1\ \ \ \ 1\\]\\[0\ \ \ 2\ \ \ 3\ \ \ 1\\]\\[0\ \ \ 6\ \ \ 11\ \ \ 6\ \ \ 1\\]\\[0\ \ \ 24\ \ \ 50\ \ \ 35\ \ \ 10\ \ \ 1\\]\\[0\ \ \ 120\ \ \ 274\ \ \ 225\ \ \ 85\ \ \ 15\ \ \ 1\\]
-The Sterling numbers of the first kind show up in many different places. It is of note that \\(s(n,k)\\) is the number of ways to arrange \\(n\\) objects into \\(k\\) cycles. A cycle is a cyclic arrangement linked in a necklace fashion. For example, if \\([A,B,C,D]\\) is a cycle, it is understood that
+The Stirling numbers of the first kind show up in many different places. It is of note that \\(s(n,k)\\) is the number of ways to arrange \\(n\\) objects into \\(k\\) cycles. A cycle is a cyclic arrangement linked in a necklace fashion. For example, if \\([A,B,C,D]\\) is a cycle, it is understood that
 \\[[A,B,C,D]=[B,C,D,A]=[C,D,A,B]=[D,A,B,C].\\]
 Stirling numbers \\(s(n,k)\\) also show up in the consideration of the rising factorial defined as 
 \\[x^{\overline {m}}=x(x+1)\dots(x+m-1),\ \ \ m\geq 0.\\]
