@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /aboutme/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is James Evans. I am currently a third year PhD student studying mathematics at Cardiff University. My main interests are in mathematical analysis, number theory. To be more specific, my research interests are in homogenisation theory, variational methods and partial differential equations.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I hope to use this blog as an outlet for random ideas and notions that have cropped up during the course of my research that perhaps have stumped me or that I feel might interest a casual audience.
