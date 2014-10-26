@@ -7,6 +7,8 @@ categories: Curl Operator Kernel Multiply Connected Domains
 
 \\(\textbf {Kernel of the curl Operator}\\)
 
+My interest in this work is prompted by the research I have been carrying out over the last two years. It is not a stretch to say that the following problem has been a hinderence on a particular problem I have been considering.
+
 Let \\(\Omega \subset \mathbb {R}^3\\) be a fairly general domain. As is probably well known, if one considers the 
 equation
 \\[
