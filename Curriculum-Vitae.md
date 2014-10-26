@@ -71,15 +71,24 @@ of up to twenty-five students, marking undergraduate coursework, and providing r
 The work with the Maths Support scheme was most enlightening as it provided me with the constant challenge of not 
 knowing what problem each student was going to bring through the door.
 
+#Conferences Attended
+
+January 2013, "Dissipative Spectral Theory: Operator Theory, PDEs and Numerics" at Cardiff University
+June 2014, "Mini-courses in Mathematical Analysis" in Padova University, Italy.
+September 2014, "The Huxley Meeting on Analytic Number Theory" in Cardiff University.
+
+#Courses Attended
+
+I completed a one day course in 2011 on educating mathematics to learning mathematicians. 
+
+LTCC course in "Dissipative Operator Theory" attended in May 2013
+
 #Skills:
 
 Over the course of my undergraduate and postgraduate courses, I have become sufficiently familiar with the 
 programming language LaTeX which allows for the quick reproduction of scientific papers, articles and lecture material.
 Further to this, I am also fully competent in the majority of Microsoft packages including Word, Excel and PowerPoint.
 
-#Training
-
-I completed a one day course in educating mathematics to learning mathematicians.
 
 #Additional Experience & Interests  
 
