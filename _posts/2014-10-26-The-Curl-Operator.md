@@ -18,8 +18,8 @@ equation
 where \\(\Omega\\) is both bounded and simply connected, then 
 \\[
 \begin {equation}
-\text {ker}\ \textbf {curl} := \text {ker}\{ \textbf {curl},\ L^2(\Omega)\}=\nabla H^1(\Omega)
-:=\{ \boldsymbol {v}(\boldsymbol {x})=\nabla w(\boldsymbol {x})\ |\ w\in H^1(\Omega)\}.
+\text {ker}\ \textbf {curl} := \text {ker}\Big \{ \textbf {curl},\ L^2(\Omega)\}=\nabla H^1(\Omega)
+:=\{ \boldsymbol {v}(\boldsymbol {x})=\nabla w(\boldsymbol {x})\ |\ w\in H^1(\Omega)\Big \}.
 \end {equation}
 \\]
 Strictly speaking one should impose suitable boundary conditions on \\(\partial\Omega\\) but so long as the boundary 
