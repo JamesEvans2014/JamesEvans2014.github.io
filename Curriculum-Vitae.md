@@ -20,15 +20,15 @@ The project involved the study of partial differential equations with rapidly os
 methods used to solve them, in particular, homogenisation theory. This theory was applied to two different problems; 
 the first was to the study of the governing equations of electrodynamics (Maxwell’s Equations) which led to the 
 development of a set of so called homogenised relations and higher order constitutive laws. 
-The second problem involved homogenisation of the governing equations for elasticity when applied to a 
-particular case of thin structures, namely, when the so called “critical case” is being considered in high contrast.
+The second problem involved homogenisation of the governing equations for elasticity on thin structures in the so called critical scaling with a contrasting soft material inclusion.
 
 \\(\textbf {September 2008 – June 2012}\\),                                                                  
 University of Cardiff 
 
 MMath in Applied Mathematics, First Class Honours   
 
-MMath Project Title: Overview of Calculus of Variations       
+MMath Project Title: Overview of Calculus of Variations  
+
 Modules Taken: Functional Analysis, Fluid Dynamics, Measure Theory, Groups, Rings & Fields, 
 Applied Nonlinear Systems, Combinatorics, Differential Geometry and Calculus of Variations.
 
@@ -48,7 +48,7 @@ University.
 #Additional Research Experience
 
 \\(\textbf {September 2011 – May 2012}\\), 
-For the final year of my undergraduate degree, I completed a project in which I researched and reviewed the key points of Calculus of Variations under supervision. As a result of this research I was able to get a feel for academic research by means of self-study.
+For the final year of my undergraduate degree, I completed a project in which I researched and reviewed the origin and methods of calculus of variations. As a result of this research I was able to get a feel for academic research by means of independent study.
 
 #Research Interests
 
@@ -84,12 +84,12 @@ I completed a one day course in educating mathematics to learning mathematicians
 #Additional Experience & Interests  
 
 During the course of my A-levels, I helped to initiate talks with the head of mathematics to convince the school 
-to allow the teaching of the Further Mathematics AS Level. When I had decided that I was to undertake Mathematics 
+to allow the teaching of the Further Mathematics 'AS' Level. When I had decided that I was to undertake Mathematics 
 at a university level, I then proceeded to teach myself an additional three modules as a part of the 
-Further Mathematics course to earn myself the full A Level.
+Further Mathematics course to earn myself the full 'A' Level.
 
-I have worked for Somerfield\The Co-operative (May 2006 – December 2013). Over the course of my employment 
-I have been trusted with many important tasks which have included supervisory roles in the cash office and 
+I worked for Somerfield\The Co-operative (May 2006 – December 2013). Over the course of my employment 
+I was trusted with many important tasks which have included supervisory roles in the cash office and 
 managing staff.
 
 I have a Grade 5 Distinction in Electronic Keyboard from LCM.
