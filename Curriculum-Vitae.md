@@ -85,7 +85,7 @@ I completed a one day course in 2011 on educating mathematics to learning mathem
 
 LTCC course in "Dissipative Operator Theory" attended in May 2013
 
-#Skills:
+#Skills
 
 Over the course of my undergraduate and postgraduate courses, I have become sufficiently familiar with the 
 programming language LaTeX which allows for the quick reproduction of scientific papers, articles and lecture material.
