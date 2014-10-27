@@ -73,6 +73,8 @@ On behalf of the Maths Support scheme, I have on numerous occasions taken additi
 
 January 2013, "Dissipative Spectral Theory: Operator Theory, PDEs and Numerics" at Cardiff University
 
+May 2014, "WIMCS-Gregynog" Conference. Additionally, I gave a talk at this conference.
+
 June 2014, "Mini-courses in Mathematical Analysis" in Padova University, Italy.
 
 September 2014, "The Huxley Meeting on Analytic Number Theory" in Cardiff University.
