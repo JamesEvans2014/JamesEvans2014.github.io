@@ -29,8 +29,7 @@ MMath in Applied Mathematics, First Class Honours
 
 MMath Project Title: Overview of Calculus of Variations  
 
-Modules Taken: Functional Analysis, Fluid Dynamics, Measure Theory, Groups, Rings & Fields, 
-Applied Nonlinear Systems, Combinatorics, Differential Geometry and Calculus of Variations.
+Modules Taken: Functional Analysis, Fluid Dynamics, Measure Theory, Groups, Rings & Fields, Applied Nonlinear Systems, Combinatorics, Differential Geometry and Calculus of Variations.
 
 \\(\textbf {September 2006 – July 2008}\\),                                                 
 Ysgol Dyffryn Conwy, Llanrwst, North Wales
@@ -47,7 +46,8 @@ University.
 
 #Additional Research Experience
 
-\\(\textbf {September 2011 – May 2012}\\), 
+\\(\textbf {September 2011 – May 2012}\\)
+
 For the final year of my undergraduate degree, I completed a project in which I researched and reviewed the origin and methods of calculus of variations. As a result of this research I was able to get a feel for academic research by means of independent study.
 
 #Research Interests
@@ -64,7 +64,7 @@ where it is still unclear what so called “interface” conditions are appropri
 
 #Teaching Experience
 
-\\(\textbf {October 2012 – Present}\\), 
+\\(\textbf {October 2011 – Present}\\), 
 I have aided Cardiff University consistently with, for example, taking tutorials, assisting with marking and working for the Cardiff University Maths Support scheme. This included tutoring groups of up to twenty-five students, marking undergraduate coursework, and providing relevant feedback where necessary. The work with the Maths Support scheme was most enlightening as it provided me with the constant challenge of not knowing what problem each student was going to bring through the door.
 
 On behalf of the Maths Support scheme, I have on numerous occasions taken additional sessions for different schools in order to aid with basic numeracy. On some of these occasions, this has been a solo effort on my part.
@@ -73,7 +73,7 @@ On behalf of the Maths Support scheme, I have on numerous occasions taken additi
 
 January 2013, "Dissipative Spectral Theory: Operator Theory, PDEs and Numerics" at Cardiff University
 
-May 2014, "WIMCS-Gregynog" Conference. Additionally, I gave a talk at this conference.
+May 2014, "WIMCS-Gregynog" Conference. Additionally, I presented my research at this conference.
 
 June 2014, "Mini-courses in Mathematical Analysis" in Padova University, Italy.
 
@@ -94,7 +94,7 @@ Further to this, I am also fully competent in the majority of Microsoft packages
 
 #Additional Experience & Interests  
 
-Reinitiated a PhD seminar scheme at Cardiff University. This involved coordinating student availability, organising a programme as well as coordinating with the school to enusre minimal clashes with other seminars.
+I pushed and organised a PhD seminar scheme at Cardiff University. This involved coordinating student availability, organising a programme as well as coordinating with the school to enusre minimal clashes with other events.
 
 During the course of my A-levels, I helped to initiate talks with the head of mathematics to convince the school 
 to allow the teaching of the Further Mathematics 'AS' Level. When I had decided that I was to undertake Mathematics 
@@ -117,3 +117,5 @@ Maxwell equations (in preparation).
 Dr K. Cherednichenko
 Department of Mathematical Sciences, University of Bath, Claverton Down, Bath, BA2 7AY
 
+Dr M. Cherdantsev
+School of Mathematics, Cardiff University, Senghennydd Road, Cardiff, CF24 4AG
