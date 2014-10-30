@@ -94,6 +94,8 @@ Further to this, I am also fully competent in the majority of Microsoft packages
 
 #Additional Experience & Interests  
 
+Reinitiated a PhD seminar scheme at Cardiff University. This involved coordinating student availability, organising a programme as well as coordinating with the school to enusre minimal clashes with other seminars.
+
 During the course of my A-levels, I helped to initiate talks with the head of mathematics to convince the school 
 to allow the teaching of the Further Mathematics 'AS' Level. When I had decided that I was to undertake Mathematics 
 at a university level, I then proceeded to teach myself an additional three modules as a part of the 
