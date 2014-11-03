@@ -34,8 +34,8 @@ Modules Taken: Functional Analysis, Fluid Dynamics, Measure Theory, Groups, Ring
 \\(\textbf {September 2006 – July 2008}\\),                                                 
 Ysgol Dyffryn Conwy, Llanrwst, North Wales
 
-‘A’ Levels Mathematics (A); Further Mathematics (A); Physics (B); Music (C).   
-‘AS’ Levels English Literature (B); Music Technology (C).
+‘A’ Levels: Mathematics (A); Further Mathematics (A); Physics (B); Music (C).   
+‘AS’ Levels: English Literature (B); Music Technology (C).
 
 #Funding Awarded
 
