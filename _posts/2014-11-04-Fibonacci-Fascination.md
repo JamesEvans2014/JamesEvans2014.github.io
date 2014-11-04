@@ -32,5 +32,6 @@ a\_{f(n+2)}=a\_{f(n+1)}+a\_{f(n)},
 \\]
 then by setting \\(a\_n=\lambda^n\\) that the solution can be found explicitly. For the case of the Fibonacci sequence, it can be found that
 \\[
-F\_n=a\left (\frac {1+\sqrt {5}}{2}\right )^n+b\left (\frac {1-\sqrt {5}}{2}\right )^n.
+F\_n=a\left (\frac {1+\sqrt {5}}{2}\right )^n+b\left (\frac {1-\sqrt {5}}{2}\right )^n,
 \\]
+where \\(a,\ b\\) are found using the intial values \\(F\_0=1,\ F\_1=1\\).
