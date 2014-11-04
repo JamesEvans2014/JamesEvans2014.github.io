@@ -23,7 +23,7 @@ a\_n=\frac {F\_n}{10^{n+2}}.
 \\]
 Then
 \\[
-\sum\_{n=0}^\infty a\_n=\frac {1}{100}\sum\_{n=0}^\infty\frac {F\_n}{10^n}=\frac {1}{89}.
+S:=\sum\_{n=0}^\infty a\_n=\frac {1}{100}\sum\_{n=0}^\infty\frac {F\_n}{10^n}=\frac {1}{89}.
 \\]
 
 As I say, I think this is a fascinating result which has a fairly straightforward proof. It can be seen that if you have a sequence defined in such a way as the Fibonacci sequence, of the form
@@ -44,3 +44,7 @@ and hence
 F\_n=\frac {1}{2}\left (\frac {1+\sqrt {5}}{\sqrt {5}}\right )\left (\frac {1+\sqrt {5}}{2}\right )^n+\frac {1}{2}\left (\frac {-1+\sqrt {5}}{\sqrt {5}}\right )\left (\frac {1-\sqrt {5}}{2}\right )^n,
 \\]
 
+Hence, dividing through by \\(10^{n+2}\\) and summing yields the expression
+\\[
+S=\frac {1}{200}\left (\frac {1+\sqrt {5}}{\sqrt {5}}\right )\sum\_{n=0}^\infty\left (\frac {1+\sqrt {5}}{20}\right )^n+\frac {1}{200}\left (\frac {-1+\sqrt {5}}{\sqrt {5}}\right )\sum\_{n=0}^\infty\left (\frac {1-\sqrt {5}}{20}\right )^n
+\\]
