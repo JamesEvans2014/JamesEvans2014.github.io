@@ -11,3 +11,7 @@ Let \\(F\_n\\) represent the \\(n\\)th Fibonacci number with is obtained from th
 \\[
 F\_{n+2}=F\_{n+1}+F\_n,\ \ \ F\_0=1,\ F\_1=1.
 \\]
+The sequence therefore is:
+\\[
+1,1,2,3,5,8,13,21,34,55,89,\dots
+\\]
