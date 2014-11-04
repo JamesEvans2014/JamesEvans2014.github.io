@@ -37,5 +37,10 @@ F\_n=a\left (\frac {1+\sqrt {5}}{2}\right )^n+b\left (\frac {1-\sqrt {5}}{2}\rig
 where \\(a,\ b\\) are found using the intial values \\(F\_0=1,\ F\_1=1\\).
 Indeed, 
 \\[
-a=\frac {1+\sqrt {5}}{2\sqrt {5}},\ \ \ b=\frac {-1+\sqrt {5}}{2\sqrt {5}}
+a=\frac {1+\sqrt {5}}{2\sqrt {5}},\ \ \ b=\frac {-1+\sqrt {5}}{2\sqrt {5}},
 \\]
+and hence
+\\[
+F\_n=\frac {1}{2}\left (\frac {1+\sqrt {5}}{\sqrt {5}}\right )\left (\frac {1+\sqrt {5}}{2}\right )^n+\frac {1}{2}\left (\frac {-1+\sqrt {5}}{\sqrt {5}}\right )\left (\frac {1-\sqrt {5}}{2}\right )^n,
+\\]
+
