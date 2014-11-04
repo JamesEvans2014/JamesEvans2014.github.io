@@ -59,7 +59,18 @@ S=\frac {1}{89}.
 
 Not too difficult to show (if you don't mind the algebra!) but nonetheless interesting. Off course if you write it out explicitly, you can see the Fibonacci sequence emerge within the decimal expansion for 1/89:
 \\[
-\frac {1}{89}=0.01123595505618\dots.
+\begin {aligned}
+\frac {1}{89}= & 0.01123595505618\dots\\
+= & 0.01\\
++ & 0.001\\
++ & 0.0002\\
++ & 0.00003\\ 
++ & 0.000005\\
++ & 0.0000008\\
++ & 0.00000013\\
++ & 0.000000021\\
++ & \vdots
+\end {aligned}
 \\]
 
 Hope you found this as interesting as I did!
