@@ -15,3 +15,13 @@ The sequence therefore is:
 \\[
 1,1,2,3,5,8,13,21,34,55,89,\dots
 \\]
+This sequence has been well documented and well studied over it's vast history but there is one particular property I wish to lok at (and prove) which I came across. That property is thus:
+
+Let \\(F\_n\\) represent the \\(n\\)th Fibonacci number. Define the sequence \\(a\_n\\) to be 
+\\[
+a\_n=\frac {F\_n}{10^{n+2}}.
+\\]
+Then
+\\[
+\frac {1}{100}\sum\_{n=0}^\infty\frac {F\_n}{10^n}=\frac {1}{89}.
+\\]
