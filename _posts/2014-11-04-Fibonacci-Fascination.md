@@ -52,3 +52,14 @@ where \\(\phi\\) is the golden ratio and \\(\bar {\phi}\\) is the conjugate root
 \\[
 S=\frac {1}{200}\left (\frac {1+\sqrt {5}}{\sqrt {5}}\right )\left ( \frac {1}{1-\phi}\right )+\frac {1}{200}\left (\frac {-1+\sqrt {5}}{\sqrt {5}}\right )\left ( \frac {1}{1-\bar {\phi}}\right )
 \\]
+A simplification of the above yields the result:
+\\[
+S=\frac {1}{89}.
+\\]
+
+Not too difficult to show (if you don't mind the algebra!) but nonetheless interesting. Off course if you write it out explicitly, you can see the Fibonacci sequence emerge within the decimal expansion for 1/89:
+\\[
+\frac {1}{89}=0.01123595505618\dots.
+\\]
+
+Hope you found this as interesting as I did!
