@@ -23,5 +23,5 @@ a\_n=\frac {F\_n}{10^{n+2}}.
 \\]
 Then
 \\[
-\frac {1}{100}\sum\_{n=0}^\infty\frac {F\_n}{10^n}=\frac {1}{89}.
+\sum\_{n=0}^\infty a\_n=\frac {1}{100}\sum\_{n=0}^\infty\frac {F\_n}{10^n}=\frac {1}{89}.
 \\]
