@@ -54,7 +54,7 @@ Hence by convergence of a geometric series, it is achieved that
 \\[
 \begin {aligned}
 S= & \frac {1}{10\sqrt {5}}\left ( \frac {\phi}{10-\phi}\right )-\frac {1}{10\sqrt {5}}\left ( \frac {\bar {\phi}}{10-\bar {\phi}}\right )\\\
-= & \frac {1}{10\sqrt {5}}\left ( \frac {\phi-\bar {\phi}}{(10-\phi)(10-\bar {\phi})}\right )\\\
+= & \frac {1}{10\sqrt {5}}\left ( \frac {10(\phi-\bar {\phi})}{(10-\phi)(10-\bar {\phi})}\right )\\\
 = & \frac {4}{(19-\sqrt {5})(19+\sqrt {5})}\\\
 = & \frac {1}{89}.
 \end {aligned}
