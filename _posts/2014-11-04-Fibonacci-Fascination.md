@@ -52,7 +52,7 @@ S=\frac {1}{10\sqrt {5}}\sum\_{n=0}^\infty\left (\frac {\phi}{10}\right )^{n+1}+
 \\]
 Hence by convergence of a geometric series, it is achieved that
 \\[
-S=\frac {1}{200}\left (\frac {1+\sqrt {5}}{\sqrt {5}}\right )\left ( \frac {1}{1-\phi}\right )+\frac {1}{200}\left (\frac {-1+\sqrt {5}}{\sqrt {5}}\right )\left ( \frac {1}{1-\bar {\phi}}\right )
+S=\frac {1}{100\sqrt {5}}\left ( \frac {\phi}{1-\phi}\right )+\frac {1}{100\sqrt {5}}\left ( \frac {\bar {\phi}}{1-\bar {\phi}}\right )
 \\]
 A simplification of the above yields the result:
 \\[
