@@ -69,7 +69,7 @@ Not too difficult to show (if you don't mind the algebra!) but nonetheless inter
 + & 0.0000008\\\
 + & 0.00000013\\\
 + & 0.000000021\\\
-+ & \vdots
++ & \ \ \ \ \vdots
 \end {aligned}
 \\]
 
