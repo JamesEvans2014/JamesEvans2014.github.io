@@ -41,14 +41,16 @@ a=\frac {1+\sqrt {5}}{2\sqrt {5}},\ \ \ b=\frac {-1+\sqrt {5}}{2\sqrt {5}},
 \\]
 and hence
 \\[
-F\_n=\frac {1}{2}\left (\frac {1+\sqrt {5}}{\sqrt {5}}\right )\left (\frac {1+\sqrt {5}}{2}\right )^n+\frac {1}{2}\left (\frac {-1+\sqrt {5}}{\sqrt {5}}\right )\left (\frac {1-\sqrt {5}}{2}\right )^n,
+\begin {aligned}
+F\_n= & \frac {1}{2}\left (\frac {1+\sqrt {5}}{\sqrt {5}}\right )\left (\frac {1+\sqrt {5}}{2}\right )^n+\frac {1}{2}\left (\frac {-1+\sqrt {5}}{\sqrt {5}}\right )\left (\frac {1-\sqrt {5}}{2}\right )^n,\\\
+F\_n= & \frac {1}{\sqrt {5}}\phi^{n+1}-\frac {1}{\sqrt {5}}\bar {\phi}^{n+1},
+\end {aligned}
 \\]
-
-Hence, dividing through by \\(10^{n+2}\\) and summing yields the expression
+where \\(\phi\\) is the golden ratio and \\(\bar {\phi}\\) is the conjugate root. Hence, dividing through by \\(10^{n+2}\\) and summing yields the expression
 \\[
-S=\frac {1}{200}\left (\frac {1+\sqrt {5}}{\sqrt {5}}\right )\sum\_{n=0}^\infty\left (\frac {\phi}{10}\right )^n+\frac {1}{200}\left (\frac {-1+\sqrt {5}}{\sqrt {5}}\right )\sum\_{n=0}^\infty\left (\frac {\bar {\phi}}{10}\right )^n,
+S=\frac {1}{10\sqrt {5}}\sum\_{n=0}^\infty\left (\frac {\phi}{10}\right )^{n+1}+\frac {1}{10\sqrt {5}}\sum\_{n=0}^\infty\left (\frac {\bar {\phi}}{10}\right )^{n+1},
 \\]
-where \\(\phi\\) is the golden ratio and \\(\bar {\phi}\\) is the conjugate root. Hence by convergence of a geometric series, it is achieved that
+Hence by convergence of a geometric series, it is achieved that
 \\[
 S=\frac {1}{200}\left (\frac {1+\sqrt {5}}{\sqrt {5}}\right )\left ( \frac {1}{1-\phi}\right )+\frac {1}{200}\left (\frac {-1+\sqrt {5}}{\sqrt {5}}\right )\left ( \frac {1}{1-\bar {\phi}}\right )
 \\]
