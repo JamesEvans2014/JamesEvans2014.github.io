@@ -46,6 +46,6 @@ F\_n=\frac {1}{2}\left (\frac {1+\sqrt {5}}{\sqrt {5}}\right )\left (\frac {1+\s
 
 Hence, dividing through by \\(10^{n+2}\\) and summing yields the expression
 \\[
-S=\frac {1}{200}\left (\frac {1+\sqrt {5}}{\sqrt {5}}\right )\sum\_{n=0}^\infty\left (\frac {\phi}{10}\right )^n+\frac {1}{200}\left (\frac {-1+\sqrt {5}}{\sqrt {5}}\right )\sum\_{n=0}^\infty\left (\frac {\bar {\phi}}}{10}\right )^n,
+S=\frac {1}{200}\left (\frac {1+\sqrt {5}}{\sqrt {5}}\right )\sum\_{n=0}^\infty\left (\frac {\phi}{10}\right )^n+\frac {1}{200}\left (\frac {-1+\sqrt {5}}{\sqrt {5}}\right )\sum\_{n=0}^\infty\left (\frac {\bar {\phi}}{10}\right )^n,
 \\]
 where \\(\phi\\) is the golden ratio and \\(\bar {\phi}\\) is the conjugate root.
