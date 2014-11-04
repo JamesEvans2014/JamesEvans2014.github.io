@@ -48,11 +48,11 @@ F\_n= & \frac {1}{\sqrt {5}}\phi^{n+1}-\frac {1}{\sqrt {5}}\bar {\phi}^{n+1},
 \\]
 where \\(\phi\\) is the golden ratio and \\(\bar {\phi}\\) is the conjugate root. Hence, dividing through by \\(10^{n+2}\\) and summing yields the expression
 \\[
-S=\frac {1}{10\sqrt {5}}\sum\_{n=0}^\infty\left (\frac {\phi}{10}\right )^{n+1}+\frac {1}{10\sqrt {5}}\sum\_{n=0}^\infty\left (\frac {\bar {\phi}}{10}\right )^{n+1},
+S=\frac {1}{10\sqrt {5}}\sum\_{n=0}^\infty\left (\frac {\phi}{10}\right )^{n+1}-\frac {1}{10\sqrt {5}}\sum\_{n=0}^\infty\left (\frac {\bar {\phi}}{10}\right )^{n+1},
 \\]
 Hence by convergence of a geometric series, it is achieved that
 \\[
-S=\frac {1}{100\sqrt {5}}\left ( \frac {\phi}{1-\phi}\right )+\frac {1}{100\sqrt {5}}\left ( \frac {\bar {\phi}}{1-\bar {\phi}}\right )
+S=\frac {1}{100\sqrt {5}}\left ( \frac {\phi}{1-\phi}\right )-\frac {1}{100\sqrt {5}}\left ( \frac {\bar {\phi}}{1-\bar {\phi}}\right )
 \\]
 A simplification of the above yields the result:
 \\[
