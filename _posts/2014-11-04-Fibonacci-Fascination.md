@@ -30,4 +30,7 @@ As I say, I think this is a fascinating result which has a fairly straightforwar
 \\[
 a\_{f(n+2)}=a\_{f(n+1)}+a\_{f(n)},
 \\]
-then by setting \\(a\_n=\lambda^n\\) that the solution can be found explicitly.
+then by setting \\(a\_n=\lambda^n\\) that the solution can be found explicitly. For the case of the Fibonacci sequence, it can be found that
+\\[
+F\_n=a\left (\frac {1+\sqrt {5}}{2}\right )^n+b\left (\frac {1-\sqrt {5}}{2}\right )^n.
+\\]
